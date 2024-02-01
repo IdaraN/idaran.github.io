@@ -1,0 +1,3614 @@
+{
+  "filename": "IdaraNkonoResume.pdf",
+  "page_data": [
+    {
+      "page": 0,
+      "image_url": "https://nnts.imgix.net/uploadedfiles/rawocr/133b0d79-152f-4efd-9629-0804f8d8be0e-1.jpeg?auto=compress&expires=1706760642&or=0&s=e24f9e35dd879a4a0023acb4f3d232c9",
+      "size": {
+        "width": 2550,
+        "height": 3300
+      },
+      "words": [
+        {
+          "text": "IDARA",
+          "xmin": 962,
+          "ymin": 89,
+          "xmax": 1231,
+          "ymax": 148
+        },
+        {
+          "text": "NKONO",
+          "xmin": 1260,
+          "ymin": 87,
+          "xmax": 1584,
+          "ymax": 150
+        },
+        {
+          "text": "Linkedin.com/in/idarankonc",
+          "xmin": 744,
+          "ymin": 236,
+          "xmax": 1170,
+          "ymax": 262
+        },
+        {
+          "text": "(587)",
+          "xmin": 1200,
+          "ymin": 236,
+          "xmax": 1278,
+          "ymax": 263
+        },
+        {
+          "text": "224-8830",
+          "xmin": 1290,
+          "ymin": 236,
+          "xmax": 1433,
+          "ymax": 263
+        },
+        {
+          "text": "Idaran",
+          "xmin": 1460,
+          "ymin": 236,
+          "xmax": 1553,
+          "ymax": 262
+        },
+        {
+          "text": "@student.ubc.ca",
+          "xmin": 1555,
+          "ymin": 236,
+          "xmax": 1802,
+          "ymax": 262
+        },
+        {
+          "text": "Technical",
+          "xmin": 1122,
+          "ymin": 326,
+          "xmax": 1307,
+          "ymax": 358
+        },
+        {
+          "text": "Skills",
+          "xmin": 1321,
+          "ymin": 325,
+          "xmax": 1425,
+          "ymax": 358
+        },
+        {
+          "text": "Programming",
+          "xmin": 100,
+          "ymin": 405,
+          "xmax": 348,
+          "ymax": 443
+        },
+        {
+          "text": "Languages",
+          "xmin": 360,
+          "ymin": 406,
+          "xmax": 549,
+          "ymax": 443
+        },
+        {
+          "text": "|",
+          "xmin": 555,
+          "ymin": 415,
+          "xmax": 558,
+          "ymax": 422
+        },
+        {
+          "text": "C",
+          "xmin": 576,
+          "ymin": 406,
+          "xmax": 606,
+          "ymax": 435
+        },
+        {
+          "text": "Python",
+          "xmin": 625,
+          "ymin": 406,
+          "xmax": 742,
+          "ymax": 438
+        },
+        {
+          "text": "System",
+          "xmin": 764,
+          "ymin": 406,
+          "xmax": 888,
+          "ymax": 443
+        },
+        {
+          "text": "Verilog",
+          "xmin": 883,
+          "ymin": 406,
+          "xmax": 1007,
+          "ymax": 444
+        },
+        {
+          "text": "|",
+          "xmin": 1011,
+          "ymin": 430,
+          "xmax": 1014,
+          "ymax": 434
+        },
+        {
+          "text": "ARM",
+          "xmin": 1030,
+          "ymin": 406,
+          "xmax": 1119,
+          "ymax": 435
+        },
+        {
+          "text": "Hardware",
+          "xmin": 1275,
+          "ymin": 406,
+          "xmax": 1454,
+          "ymax": 435
+        },
+        {
+          "text": "|",
+          "xmin": 1460,
+          "ymin": 415,
+          "xmax": 1463,
+          "ymax": 429
+        },
+        {
+          "text": "Microcontroller",
+          "xmin": 1481,
+          "ymin": 406,
+          "xmax": 1743,
+          "ymax": 435
+        },
+        {
+          "text": "FPGA",
+          "xmin": 1764,
+          "ymin": 406,
+          "xmax": 1874,
+          "ymax": 439
+        },
+        {
+          "text": "Soldering",
+          "xmin": 1893,
+          "ymin": 406,
+          "xmax": 2052,
+          "ymax": 443
+        },
+        {
+          "text": "Iron",
+          "xmin": 2064,
+          "ymin": 406,
+          "xmax": 2130,
+          "ymax": 435
+        },
+        {
+          "text": "Reflow",
+          "xmin": 2155,
+          "ymin": 406,
+          "xmax": 2271,
+          "ymax": 435
+        },
+        {
+          "text": "Oven",
+          "xmin": 2287,
+          "ymin": 406,
+          "xmax": 2375,
+          "ymax": 435
+        },
+        {
+          "text": "Assembly",
+          "xmin": 100,
+          "ymin": 461,
+          "xmax": 265,
+          "ymax": 495
+        },
+        {
+          "text": "(",
+          "xmin": 278,
+          "ymin": 464,
+          "xmax": 285,
+          "ymax": 481
+        },
+        {
+          "text": "ARMv7),",
+          "xmin": 289,
+          "ymin": 461,
+          "xmax": 449,
+          "ymax": 492
+        },
+        {
+          "text": "8051",
+          "xmin": 464,
+          "ymin": 461,
+          "xmax": 540,
+          "ymax": 490
+        },
+        {
+          "text": "Assembly,",
+          "xmin": 556,
+          "ymin": 461,
+          "xmax": 727,
+          "ymax": 495
+        },
+        {
+          "text": "CUPL",
+          "xmin": 741,
+          "ymin": 461,
+          "xmax": 845,
+          "ymax": 490
+        },
+        {
+          "text": "Oscilloscope,",
+          "xmin": 1275,
+          "ymin": 461,
+          "xmax": 1497,
+          "ymax": 495
+        },
+        {
+          "text": "Multimeter",
+          "xmin": 1510,
+          "ymin": 461,
+          "xmax": 1699,
+          "ymax": 490
+        },
+        {
+          "text": "Circuit",
+          "xmin": 1718,
+          "ymin": 461,
+          "xmax": 1833,
+          "ymax": 490
+        },
+        {
+          "text": "Analysis/Design",
+          "xmin": 1844,
+          "ymin": 461,
+          "xmax": 2117,
+          "ymax": 495
+        },
+        {
+          "text": "Software",
+          "xmin": 101,
+          "ymin": 514,
+          "xmax": 258,
+          "ymax": 544
+        },
+        {
+          "text": "A",
+          "xmin": 256,
+          "ymin": 524,
+          "xmax": 268,
+          "ymax": 539
+        },
+        {
+          "text": "Visual",
+          "xmin": 284,
+          "ymin": 515,
+          "xmax": 387,
+          "ymax": 544
+        },
+        {
+          "text": "Studio",
+          "xmin": 402,
+          "ymin": 515,
+          "xmax": 508,
+          "ymax": 544
+        },
+        {
+          "text": "ModelSim",
+          "xmin": 528,
+          "ymin": 515,
+          "xmax": 701,
+          "ymax": 544
+        },
+        {
+          "text": "Quartus",
+          "xmin": 727,
+          "ymin": 515,
+          "xmax": 855,
+          "ymax": 549
+        },
+        {
+          "text": ",",
+          "xmin": 855,
+          "ymin": 525,
+          "xmax": 862,
+          "ymax": 540
+        },
+        {
+          "text": "SolidWorks.",
+          "xmin": 880,
+          "ymin": 515,
+          "xmax": 1080,
+          "ymax": 544
+        },
+        {
+          "text": "LTSPice",
+          "xmin": 1094,
+          "ymin": 515,
+          "xmax": 1237,
+          "ymax": 544
+        },
+        {
+          "text": "Altium",
+          "xmin": 100,
+          "ymin": 569,
+          "xmax": 211,
+          "ymax": 598
+        },
+        {
+          "text": "1.",
+          "xmin": 213,
+          "ymin": 580,
+          "xmax": 220,
+          "ymax": 597
+        },
+        {
+          "text": "Microsoft",
+          "xmin": 237,
+          "ymin": 569,
+          "xmax": 400,
+          "ymax": 598
+        },
+        {
+          "text": "Office,",
+          "xmin": 413,
+          "ymin": 569,
+          "xmax": 524,
+          "ymax": 598
+        },
+        {
+          "text": "WinCupl,",
+          "xmin": 538,
+          "ymin": 569,
+          "xmax": 698,
+          "ymax": 605
+        },
+        {
+          "text": "WinSim",
+          "xmin": 711,
+          "ymin": 569,
+          "xmax": 845,
+          "ymax": 598
+        },
+        {
+          "text": "Education",
+          "xmin": 1174,
+          "ymin": 664,
+          "xmax": 1372,
+          "ymax": 697
+        },
+        {
+          "text": "Bachelor",
+          "xmin": 100,
+          "ymin": 744,
+          "xmax": 258,
+          "ymax": 773
+        },
+        {
+          "text": "of",
+          "xmin": 270,
+          "ymin": 743,
+          "xmax": 306,
+          "ymax": 773
+        },
+        {
+          "text": "Applied",
+          "xmin": 314,
+          "ymin": 743,
+          "xmax": 455,
+          "ymax": 782
+        },
+        {
+          "text": "Science",
+          "xmin": 467,
+          "ymin": 743,
+          "xmax": 597,
+          "ymax": 773
+        },
+        {
+          "text": "Electrical",
+          "xmin": 622,
+          "ymin": 744,
+          "xmax": 789,
+          "ymax": 773
+        },
+        {
+          "text": "Engineering",
+          "xmin": 803,
+          "ymin": 743,
+          "xmax": 1019,
+          "ymax": 781
+        },
+        {
+          "text": "Expected",
+          "xmin": 2147,
+          "ymin": 744,
+          "xmax": 2307,
+          "ymax": 778
+        },
+        {
+          "text": "in",
+          "xmin": 2322,
+          "ymin": 744,
+          "xmax": 2354,
+          "ymax": 773
+        },
+        {
+          "text": "2026",
+          "xmin": 2367,
+          "ymin": 743,
+          "xmax": 2446,
+          "ymax": 773
+        },
+        {
+          "text": "University",
+          "xmin": 100,
+          "ymin": 798,
+          "xmax": 273,
+          "ymax": 830
+        },
+        {
+          "text": "of",
+          "xmin": 286,
+          "ymin": 798,
+          "xmax": 319,
+          "ymax": 827
+        },
+        {
+          "text": "British",
+          "xmin": 331,
+          "ymin": 798,
+          "xmax": 441,
+          "ymax": 827
+        },
+        {
+          "text": "Columbia",
+          "xmin": 455,
+          "ymin": 798,
+          "xmax": 616,
+          "ymax": 827
+        },
+        {
+          "text": "Vancouver",
+          "xmin": 2198,
+          "ymin": 798,
+          "xmax": 2375,
+          "ymax": 828
+        },
+        {
+          "text": "BC",
+          "xmin": 2394,
+          "ymin": 798,
+          "xmax": 2446,
+          "ymax": 827
+        },
+        {
+          "text": "Experience",
+          "xmin": 1165,
+          "ymin": 893,
+          "xmax": 1382,
+          "ymax": 930
+        },
+        {
+          "text": "PCB",
+          "xmin": 100,
+          "ymin": 972,
+          "xmax": 180,
+          "ymax": 1003
+        },
+        {
+          "text": "and",
+          "xmin": 195,
+          "ymin": 973,
+          "xmax": 258,
+          "ymax": 1002
+        },
+        {
+          "text": "Controls",
+          "xmin": 273,
+          "ymin": 972,
+          "xmax": 425,
+          "ymax": 1002
+        },
+        {
+          "text": "Subteam",
+          "xmin": 436,
+          "ymin": 973,
+          "xmax": 590,
+          "ymax": 1003
+        },
+        {
+          "text": "09/2023",
+          "xmin": 2114,
+          "ymin": 972,
+          "xmax": 2245,
+          "ymax": 1000
+        },
+        {
+          "text": "to",
+          "xmin": 2260,
+          "ymin": 976,
+          "xmax": 2293,
+          "ymax": 1002
+        },
+        {
+          "text": "Current",
+          "xmin": 2307,
+          "ymin": 972,
+          "xmax": 2449,
+          "ymax": 1003
+        },
+        {
+          "text": "UBC",
+          "xmin": 100,
+          "ymin": 1026,
+          "xmax": 186,
+          "ymax": 1057
+        },
+        {
+          "text": "Thunderbikes",
+          "xmin": 198,
+          "ymin": 1027,
+          "xmax": 446,
+          "ymax": 1057
+        },
+        {
+          "text": "Design",
+          "xmin": 460,
+          "ymin": 1027,
+          "xmax": 575,
+          "ymax": 1063
+        },
+        {
+          "text": "Team",
+          "xmin": 590,
+          "ymin": 1027,
+          "xmax": 684,
+          "ymax": 1057
+        },
+        {
+          "text": "Vancouver,",
+          "xmin": 2185,
+          "ymin": 1027,
+          "xmax": 2377,
+          "ymax": 1062
+        },
+        {
+          "text": "BC",
+          "xmin": 2392,
+          "ymin": 1027,
+          "xmax": 2444,
+          "ymax": 1057
+        },
+        {
+          "text": "Designed",
+          "xmin": 233,
+          "ymin": 1081,
+          "xmax": 389,
+          "ymax": 1116
+        },
+        {
+          "text": "PCB",
+          "xmin": 402,
+          "ymin": 1081,
+          "xmax": 475,
+          "ymax": 1111
+        },
+        {
+          "text": "schematic",
+          "xmin": 491,
+          "ymin": 1081,
+          "xmax": 655,
+          "ymax": 1110
+        },
+        {
+          "text": "and",
+          "xmin": 668,
+          "ymin": 1081,
+          "xmax": 724,
+          "ymax": 1110
+        },
+        {
+          "text": "electromechanical",
+          "xmin": 738,
+          "ymin": 1081,
+          "xmax": 1039,
+          "ymax": 1110
+        },
+        {
+          "text": "relay",
+          "xmin": 1050,
+          "ymin": 1081,
+          "xmax": 1132,
+          "ymax": 1117
+        },
+        {
+          "text": "control",
+          "xmin": 1144,
+          "ymin": 1081,
+          "xmax": 1260,
+          "ymax": 1110
+        },
+        {
+          "text": "circuit",
+          "xmin": 1273,
+          "ymin": 1081,
+          "xmax": 1379,
+          "ymax": 1108
+        },
+        {
+          "text": "using",
+          "xmin": 1390,
+          "ymin": 1081,
+          "xmax": 1477,
+          "ymax": 1116
+        },
+        {
+          "text": "Altium",
+          "xmin": 1491,
+          "ymin": 1081,
+          "xmax": 1603,
+          "ymax": 1108
+        },
+        {
+          "text": ":",
+          "xmin": 184,
+          "ymin": 1143,
+          "xmax": 200,
+          "ymax": 1154
+        },
+        {
+          "text": "Conducted",
+          "xmin": 233,
+          "ymin": 1135,
+          "xmax": 412,
+          "ymax": 1164
+        },
+        {
+          "text": "a",
+          "xmin": 425,
+          "ymin": 1144,
+          "xmax": 438,
+          "ymax": 1160
+        },
+        {
+          "text": "thorough",
+          "xmin": 454,
+          "ymin": 1135,
+          "xmax": 600,
+          "ymax": 1170
+        },
+        {
+          "text": "analysis",
+          "xmin": 614,
+          "ymin": 1135,
+          "xmax": 745,
+          "ymax": 1170
+        },
+        {
+          "text": "of",
+          "xmin": 758,
+          "ymin": 1135,
+          "xmax": 791,
+          "ymax": 1163
+        },
+        {
+          "text": "motor",
+          "xmin": 803,
+          "ymin": 1140,
+          "xmax": 901,
+          "ymax": 1165
+        },
+        {
+          "text": "controller",
+          "xmin": 912,
+          "ymin": 1135,
+          "xmax": 1073,
+          "ymax": 1165
+        },
+        {
+          "text": "charger",
+          "xmin": 1095,
+          "ymin": 1136,
+          "xmax": 1218,
+          "ymax": 1172
+        },
+        {
+          "text": "and",
+          "xmin": 1241,
+          "ymin": 1135,
+          "xmax": 1297,
+          "ymax": 1163
+        },
+        {
+          "text": "battery",
+          "xmin": 1310,
+          "ymin": 1135,
+          "xmax": 1424,
+          "ymax": 1171
+        },
+        {
+          "text": "specifications",
+          "xmin": 1437,
+          "ymin": 1135,
+          "xmax": 1663,
+          "ymax": 1171
+        },
+        {
+          "text": "leveraging",
+          "xmin": 1686,
+          "ymin": 1135,
+          "xmax": 1859,
+          "ymax": 1170
+        },
+        {
+          "text": "calculations",
+          "xmin": 1871,
+          "ymin": 1135,
+          "xmax": 2067,
+          "ymax": 1164
+        },
+        {
+          "text": "to",
+          "xmin": 2081,
+          "ymin": 1140,
+          "xmax": 2111,
+          "ymax": 1163
+        },
+        {
+          "text": "select",
+          "xmin": 2124,
+          "ymin": 1135,
+          "xmax": 2217,
+          "ymax": 1163
+        },
+        {
+          "text": "6",
+          "xmin": 2228,
+          "ymin": 1135,
+          "xmax": 2243,
+          "ymax": 1163
+        },
+        {
+          "text": "mechanical",
+          "xmin": 2259,
+          "ymin": 1135,
+          "xmax": 2446,
+          "ymax": 1164
+        },
+        {
+          "text": "relays",
+          "xmin": 232,
+          "ymin": 1190,
+          "xmax": 330,
+          "ymax": 1224
+        },
+        {
+          "text": "fuses,",
+          "xmin": 355,
+          "ymin": 1190,
+          "xmax": 447,
+          "ymax": 1222
+        },
+        {
+          "text": "and",
+          "xmin": 461,
+          "ymin": 1191,
+          "xmax": 518,
+          "ymax": 1219
+        },
+        {
+          "text": "resistors",
+          "xmin": 529,
+          "ymin": 1190,
+          "xmax": 667,
+          "ymax": 1219
+        },
+        {
+          "text": "Engineered",
+          "xmin": 232,
+          "ymin": 1244,
+          "xmax": 420,
+          "ymax": 1279
+        },
+        {
+          "text": "a",
+          "xmin": 434,
+          "ymin": 1253,
+          "xmax": 446,
+          "ymax": 1271
+        },
+        {
+          "text": "compact",
+          "xmin": 462,
+          "ymin": 1249,
+          "xmax": 603,
+          "ymax": 1279
+        },
+        {
+          "text": "layout",
+          "xmin": 614,
+          "ymin": 1244,
+          "xmax": 717,
+          "ymax": 1276
+        },
+        {
+          "text": "and",
+          "xmin": 729,
+          "ymin": 1244,
+          "xmax": 784,
+          "ymax": 1273
+        },
+        {
+          "text": "connections",
+          "xmin": 799,
+          "ymin": 1244,
+          "xmax": 995,
+          "ymax": 1273
+        },
+        {
+          "text": "for",
+          "xmin": 1008,
+          "ymin": 1244,
+          "xmax": 1056,
+          "ymax": 1273
+        },
+        {
+          "text": "the",
+          "xmin": 1068,
+          "ymin": 1244,
+          "xmax": 1116,
+          "ymax": 1273
+        },
+        {
+          "text": "relay",
+          "xmin": 1128,
+          "ymin": 1244,
+          "xmax": 1209,
+          "ymax": 1279
+        },
+        {
+          "text": "circuit",
+          "xmin": 1222,
+          "ymin": 1244,
+          "xmax": 1328,
+          "ymax": 1273
+        },
+        {
+          "text": "to",
+          "xmin": 1340,
+          "ymin": 1248,
+          "xmax": 1369,
+          "ymax": 1273
+        },
+        {
+          "text": "fit",
+          "xmin": 1382,
+          "ymin": 1244,
+          "xmax": 1418,
+          "ymax": 1273
+        },
+        {
+          "text": "within",
+          "xmin": 1430,
+          "ymin": 1244,
+          "xmax": 1531,
+          "ymax": 1273
+        },
+        {
+          "text": "a",
+          "xmin": 1547,
+          "ymin": 1253,
+          "xmax": 1560,
+          "ymax": 1271
+        },
+        {
+          "text": "specified",
+          "xmin": 1576,
+          "ymin": 1244,
+          "xmax": 1723,
+          "ymax": 1280
+        },
+        {
+          "text": "295",
+          "xmin": 1736,
+          "ymin": 1244,
+          "xmax": 1794,
+          "ymax": 1273
+        },
+        {
+          "text": "cm?",
+          "xmin": 1808,
+          "ymin": 1244,
+          "xmax": 1871,
+          "ymax": 1273
+        },
+        {
+          "text": "space",
+          "xmin": 1883,
+          "ymin": 1253,
+          "xmax": 1972,
+          "ymax": 1279
+        },
+        {
+          "text": "alongside",
+          "xmin": 1986,
+          "ymin": 1244,
+          "xmax": 2143,
+          "ymax": 1280
+        },
+        {
+          "text": "PCB",
+          "xmin": 2155,
+          "ymin": 1244,
+          "xmax": 2229,
+          "ymax": 1273
+        },
+        {
+          "text": "in",
+          "xmin": 2244,
+          "ymin": 1244,
+          "xmax": 2274,
+          "ymax": 1273
+        },
+        {
+          "text": "the",
+          "xmin": 2288,
+          "ymin": 1244,
+          "xmax": 2337,
+          "ymax": 1273
+        },
+        {
+          "text": "electric",
+          "xmin": 233,
+          "ymin": 1298,
+          "xmax": 353,
+          "ymax": 1327
+        },
+        {
+          "text": "bike",
+          "xmin": 366,
+          "ymin": 1298,
+          "xmax": 435,
+          "ymax": 1325
+        },
+        {
+          "text": "Hardware",
+          "xmin": 100,
+          "ymin": 1365,
+          "xmax": 281,
+          "ymax": 1394
+        },
+        {
+          "text": "Engineer",
+          "xmin": 294,
+          "ymin": 1364,
+          "xmax": 452,
+          "ymax": 1402
+        },
+        {
+          "text": "05/2023",
+          "xmin": 2122,
+          "ymin": 1364,
+          "xmax": 2256,
+          "ymax": 1392
+        },
+        {
+          "text": "to",
+          "xmin": 2269,
+          "ymin": 1368,
+          "xmax": 2301,
+          "ymax": 1394
+        },
+        {
+          "text": "08/2023",
+          "xmin": 2314,
+          "ymin": 1364,
+          "xmax": 2446,
+          "ymax": 1392
+        },
+        {
+          "text": "UBC",
+          "xmin": 100,
+          "ymin": 1418,
+          "xmax": 185,
+          "ymax": 1449
+        },
+        {
+          "text": "Work",
+          "xmin": 198,
+          "ymin": 1419,
+          "xmax": 296,
+          "ymax": 1449
+        },
+        {
+          "text": "Learn",
+          "xmin": 311,
+          "ymin": 1419,
+          "xmax": 415,
+          "ymax": 1448
+        },
+        {
+          "text": "-",
+          "xmin": 431,
+          "ymin": 1435,
+          "xmax": 437,
+          "ymax": 1440
+        },
+        {
+          "text": "Civil",
+          "xmin": 455,
+          "ymin": 1418,
+          "xmax": 536,
+          "ymax": 1446
+        },
+        {
+          "text": "Engineering",
+          "xmin": 550,
+          "ymin": 1418,
+          "xmax": 766,
+          "ymax": 1457
+        },
+        {
+          "text": "Vancouver,",
+          "xmin": 2185,
+          "ymin": 1419,
+          "xmax": 2377,
+          "ymax": 1454
+        },
+        {
+          "text": "BC",
+          "xmin": 2392,
+          "ymin": 1419,
+          "xmax": 2444,
+          "ymax": 1449
+        },
+        {
+          "text": "|",
+          "xmin": 184,
+          "ymin": 1481,
+          "xmax": 198,
+          "ymax": 1492
+        },
+        {
+          "text": "Integrated",
+          "xmin": 233,
+          "ymin": 1473,
+          "xmax": 399,
+          "ymax": 1508
+        },
+        {
+          "text": "4",
+          "xmin": 411,
+          "ymin": 1474,
+          "xmax": 429,
+          "ymax": 1499
+        },
+        {
+          "text": "electrical",
+          "xmin": 445,
+          "ymin": 1473,
+          "xmax": 593,
+          "ymax": 1500
+        },
+        {
+          "text": "relays",
+          "xmin": 605,
+          "ymin": 1473,
+          "xmax": 703,
+          "ymax": 1505
+        },
+        {
+          "text": "1",
+          "xmin": 703,
+          "ymin": 1485,
+          "xmax": 710,
+          "ymax": 1501
+        },
+        {
+          "text": "an",
+          "xmin": 728,
+          "ymin": 1482,
+          "xmax": 763,
+          "ymax": 1502
+        },
+        {
+          "text": "Arduino",
+          "xmin": 777,
+          "ymin": 1473,
+          "xmax": 913,
+          "ymax": 1502
+        },
+        {
+          "text": "board",
+          "xmin": 926,
+          "ymin": 1473,
+          "xmax": 1018,
+          "ymax": 1502
+        },
+        {
+          "text": "and",
+          "xmin": 1043,
+          "ymin": 1473,
+          "xmax": 1098,
+          "ymax": 1502
+        },
+        {
+          "text": "2",
+          "xmin": 1113,
+          "ymin": 1473,
+          "xmax": 1128,
+          "ymax": 1499
+        },
+        {
+          "text": "voltage",
+          "xmin": 1144,
+          "ymin": 1473,
+          "xmax": 1264,
+          "ymax": 1509
+        },
+        {
+          "text": "regulators",
+          "xmin": 1275,
+          "ymin": 1474,
+          "xmax": 1439,
+          "ymax": 1510
+        },
+        {
+          "text": "into",
+          "xmin": 1453,
+          "ymin": 1473,
+          "xmax": 1516,
+          "ymax": 1500
+        },
+        {
+          "text": "control",
+          "xmin": 1528,
+          "ymin": 1473,
+          "xmax": 1642,
+          "ymax": 1502
+        },
+        {
+          "text": "hardware",
+          "xmin": 1656,
+          "ymin": 1473,
+          "xmax": 1810,
+          "ymax": 1500
+        },
+        {
+          "text": "for",
+          "xmin": 1822,
+          "ymin": 1473,
+          "xmax": 1869,
+          "ymax": 1500
+        },
+        {
+          "text": "large-scale",
+          "xmin": 1880,
+          "ymin": 1473,
+          "xmax": 2057,
+          "ymax": 1508
+        },
+        {
+          "text": "machines",
+          "xmin": 2071,
+          "ymin": 1473,
+          "xmax": 2225,
+          "ymax": 1502
+        },
+        {
+          "text": "Modified",
+          "xmin": 232,
+          "ymin": 1527,
+          "xmax": 384,
+          "ymax": 1554
+        },
+        {
+          "text": "and",
+          "xmin": 400,
+          "ymin": 1527,
+          "xmax": 456,
+          "ymax": 1556
+        },
+        {
+          "text": "soldered",
+          "xmin": 470,
+          "ymin": 1527,
+          "xmax": 606,
+          "ymax": 1554
+        },
+        {
+          "text": "circuit",
+          "xmin": 622,
+          "ymin": 1527,
+          "xmax": 725,
+          "ymax": 1554
+        },
+        {
+          "text": "boards",
+          "xmin": 736,
+          "ymin": 1527,
+          "xmax": 845,
+          "ymax": 1554
+        },
+        {
+          "text": "and",
+          "xmin": 860,
+          "ymin": 1528,
+          "xmax": 915,
+          "ymax": 1554
+        },
+        {
+          "text": "wires",
+          "xmin": 930,
+          "ymin": 1527,
+          "xmax": 1017,
+          "ymax": 1554
+        },
+        {
+          "text": "for",
+          "xmin": 1030,
+          "ymin": 1527,
+          "xmax": 1078,
+          "ymax": 1556
+        },
+        {
+          "text": "optimal",
+          "xmin": 1089,
+          "ymin": 1527,
+          "xmax": 1214,
+          "ymax": 1562
+        },
+        {
+          "text": "performance",
+          "xmin": 1226,
+          "ymin": 1527,
+          "xmax": 1433,
+          "ymax": 1562
+        },
+        {
+          "text": "-",
+          "xmin": 185,
+          "ymin": 1589,
+          "xmax": 194,
+          "ymax": 1594
+        },
+        {
+          "text": "Tested",
+          "xmin": 233,
+          "ymin": 1581,
+          "xmax": 340,
+          "ymax": 1609
+        },
+        {
+          "text": "soldered",
+          "xmin": 353,
+          "ymin": 1581,
+          "xmax": 490,
+          "ymax": 1610
+        },
+        {
+          "text": "components",
+          "xmin": 503,
+          "ymin": 1586,
+          "xmax": 701,
+          "ymax": 1616
+        },
+        {
+          "text": "and",
+          "xmin": 716,
+          "ymin": 1582,
+          "xmax": 773,
+          "ymax": 1609
+        },
+        {
+          "text": "connections",
+          "xmin": 786,
+          "ymin": 1582,
+          "xmax": 982,
+          "ymax": 1610
+        },
+        {
+          "text": "using",
+          "xmin": 995,
+          "ymin": 1581,
+          "xmax": 1083,
+          "ymax": 1617
+        },
+        {
+          "text": "a",
+          "xmin": 1097,
+          "ymin": 1590,
+          "xmax": 1108,
+          "ymax": 1609
+        },
+        {
+          "text": "Data",
+          "xmin": 1124,
+          "ymin": 1581,
+          "xmax": 1201,
+          "ymax": 1609
+        },
+        {
+          "text": "Acquisition",
+          "xmin": 1214,
+          "ymin": 1581,
+          "xmax": 1405,
+          "ymax": 1614
+        },
+        {
+          "text": "system",
+          "xmin": 1419,
+          "ymin": 1585,
+          "xmax": 1529,
+          "ymax": 1615
+        },
+        {
+          "text": "to",
+          "xmin": 1545,
+          "ymin": 1585,
+          "xmax": 1575,
+          "ymax": 1609
+        },
+        {
+          "text": "ensure",
+          "xmin": 1587,
+          "ymin": 1590,
+          "xmax": 1694,
+          "ymax": 1610
+        },
+        {
+          "text": "reliability",
+          "xmin": 1705,
+          "ymin": 1581,
+          "xmax": 1866,
+          "ymax": 1614
+        },
+        {
+          "text": "|",
+          "xmin": 184,
+          "ymin": 1643,
+          "xmax": 199,
+          "ymax": 1654
+        },
+        {
+          "text": "Selected",
+          "xmin": 234,
+          "ymin": 1635,
+          "xmax": 371,
+          "ymax": 1663
+        },
+        {
+          "text": "and",
+          "xmin": 386,
+          "ymin": 1636,
+          "xmax": 443,
+          "ymax": 1664
+        },
+        {
+          "text": "developed",
+          "xmin": 455,
+          "ymin": 1635,
+          "xmax": 624,
+          "ymax": 1670
+        },
+        {
+          "text": "enclosure",
+          "xmin": 638,
+          "ymin": 1636,
+          "xmax": 794,
+          "ymax": 1664
+        },
+        {
+          "text": "for",
+          "xmin": 808,
+          "ymin": 1635,
+          "xmax": 853,
+          "ymax": 1663
+        },
+        {
+          "text": "control",
+          "xmin": 866,
+          "ymin": 1636,
+          "xmax": 983,
+          "ymax": 1664
+        },
+        {
+          "text": "hardware",
+          "xmin": 993,
+          "ymin": 1635,
+          "xmax": 1147,
+          "ymax": 1663
+        },
+        {
+          "text": "improve",
+          "xmin": 1159,
+          "ymin": 1636,
+          "xmax": 1297,
+          "ymax": 1670
+        },
+        {
+          "text": "protection",
+          "xmin": 1308,
+          "ymin": 1635,
+          "xmax": 1475,
+          "ymax": 1671
+        },
+        {
+          "text": "and",
+          "xmin": 1489,
+          "ymin": 1635,
+          "xmax": 1544,
+          "ymax": 1663
+        },
+        {
+          "text": "connection",
+          "xmin": 1558,
+          "ymin": 1635,
+          "xmax": 1737,
+          "ymax": 1664
+        },
+        {
+          "text": "functionality,",
+          "xmin": 1752,
+          "ymin": 1635,
+          "xmax": 1970,
+          "ymax": 1668
+        },
+        {
+          "text": "and",
+          "xmin": 1983,
+          "ymin": 1635,
+          "xmax": 2039,
+          "ymax": 1664
+        },
+        {
+          "text": "put",
+          "xmin": 2052,
+          "ymin": 1639,
+          "xmax": 2106,
+          "ymax": 1670
+        },
+        {
+          "text": "together",
+          "xmin": 2118,
+          "ymin": 1636,
+          "xmax": 2252,
+          "ymax": 1672
+        },
+        {
+          "text": "mounts",
+          "xmin": 2263,
+          "ymin": 1639,
+          "xmax": 2383,
+          "ymax": 1664
+        },
+        {
+          "text": "for",
+          "xmin": 2396,
+          "ymin": 1635,
+          "xmax": 2444,
+          "ymax": 1663
+        },
+        {
+          "text": "distance",
+          "xmin": 233,
+          "ymin": 1689,
+          "xmax": 366,
+          "ymax": 1718
+        },
+        {
+          "text": "hardware",
+          "xmin": 380,
+          "ymin": 1689,
+          "xmax": 533,
+          "ymax": 1719
+        },
+        {
+          "text": "SportsMed",
+          "xmin": 100,
+          "ymin": 1755,
+          "xmax": 294,
+          "ymax": 1792
+        },
+        {
+          "text": "Electrical",
+          "xmin": 307,
+          "ymin": 1755,
+          "xmax": 477,
+          "ymax": 1784
+        },
+        {
+          "text": "Subteam",
+          "xmin": 489,
+          "ymin": 1755,
+          "xmax": 642,
+          "ymax": 1786
+        },
+        {
+          "text": "02/2022",
+          "xmin": 2122,
+          "ymin": 1755,
+          "xmax": 2253,
+          "ymax": 1784
+        },
+        {
+          "text": "to",
+          "xmin": 2269,
+          "ymin": 1759,
+          "xmax": 2299,
+          "ymax": 1785
+        },
+        {
+          "text": "08/2023",
+          "xmin": 2314,
+          "ymin": 1755,
+          "xmax": 2446,
+          "ymax": 1784
+        },
+        {
+          "text": "UBC",
+          "xmin": 100,
+          "ymin": 1809,
+          "xmax": 183,
+          "ymax": 1840
+        },
+        {
+          "text": "Biomedical",
+          "xmin": 198,
+          "ymin": 1809,
+          "xmax": 397,
+          "ymax": 1838
+        },
+        {
+          "text": "Engineering",
+          "xmin": 408,
+          "ymin": 1809,
+          "xmax": 624,
+          "ymax": 1847
+        },
+        {
+          "text": "Student",
+          "xmin": 636,
+          "ymin": 1810,
+          "xmax": 773,
+          "ymax": 1840
+        },
+        {
+          "text": "Team",
+          "xmin": 785,
+          "ymin": 1810,
+          "xmax": 879,
+          "ymax": 1838
+        },
+        {
+          "text": "Vancouver,",
+          "xmin": 2184,
+          "ymin": 1810,
+          "xmax": 2380,
+          "ymax": 1841
+        },
+        {
+          "text": "BC",
+          "xmin": 2392,
+          "ymin": 1809,
+          "xmax": 2446,
+          "ymax": 1838
+        },
+        {
+          "text": "Programmed",
+          "xmin": 233,
+          "ymin": 1864,
+          "xmax": 446,
+          "ymax": 1902
+        },
+        {
+          "text": "Arduino",
+          "xmin": 460,
+          "ymin": 1864,
+          "xmax": 595,
+          "ymax": 1892
+        },
+        {
+          "text": "board",
+          "xmin": 607,
+          "ymin": 1864,
+          "xmax": 701,
+          "ymax": 1892
+        },
+        {
+          "text": "and",
+          "xmin": 714,
+          "ymin": 1865,
+          "xmax": 771,
+          "ymax": 1892
+        },
+        {
+          "text": "STM32",
+          "xmin": 784,
+          "ymin": 1864,
+          "xmax": 907,
+          "ymax": 1892
+        },
+        {
+          "text": "microcontroller",
+          "xmin": 921,
+          "ymin": 1864,
+          "xmax": 1179,
+          "ymax": 1892
+        },
+        {
+          "text": "to",
+          "xmin": 1202,
+          "ymin": 1869,
+          "xmax": 1230,
+          "ymax": 1892
+        },
+        {
+          "text": "prototype",
+          "xmin": 1242,
+          "ymin": 1868,
+          "xmax": 1400,
+          "ymax": 1900
+        },
+        {
+          "text": "sensors",
+          "xmin": 1414,
+          "ymin": 1873,
+          "xmax": 1534,
+          "ymax": 1892
+        },
+        {
+          "text": "and",
+          "xmin": 1547,
+          "ymin": 1864,
+          "xmax": 1603,
+          "ymax": 1892
+        },
+        {
+          "text": "develop",
+          "xmin": 1617,
+          "ymin": 1864,
+          "xmax": 1745,
+          "ymax": 1900
+        },
+        {
+          "text": "the",
+          "xmin": 1760,
+          "ymin": 1864,
+          "xmax": 1807,
+          "ymax": 1892
+        },
+        {
+          "text": "device's",
+          "xmin": 1820,
+          "ymin": 1864,
+          "xmax": 1949,
+          "ymax": 1892
+        },
+        {
+          "text": "hardware",
+          "xmin": 1962,
+          "ymin": 1865,
+          "xmax": 2114,
+          "ymax": 1892
+        },
+        {
+          "text": "components",
+          "xmin": 2128,
+          "ymin": 1869,
+          "xmax": 2327,
+          "ymax": 1897
+        },
+        {
+          "text": "Configured",
+          "xmin": 233,
+          "ymin": 1919,
+          "xmax": 420,
+          "ymax": 1955
+        },
+        {
+          "text": "and",
+          "xmin": 434,
+          "ymin": 1920,
+          "xmax": 490,
+          "ymax": 1948
+        },
+        {
+          "text": "optimized",
+          "xmin": 504,
+          "ymin": 1919,
+          "xmax": 668,
+          "ymax": 1954
+        },
+        {
+          "text": "the",
+          "xmin": 682,
+          "ymin": 1920,
+          "xmax": 729,
+          "ymax": 1946
+        },
+        {
+          "text": "microcontroller",
+          "xmin": 742,
+          "ymin": 1919,
+          "xmax": 1000,
+          "ymax": 1948
+        },
+        {
+          "text": "Bluetooth",
+          "xmin": 1012,
+          "ymin": 1919,
+          "xmax": 1173,
+          "ymax": 1946
+        },
+        {
+          "text": "module",
+          "xmin": 1186,
+          "ymin": 1919,
+          "xmax": 1309,
+          "ymax": 1948
+        },
+        {
+          "text": "to",
+          "xmin": 1323,
+          "ymin": 1924,
+          "xmax": 1351,
+          "ymax": 1948
+        },
+        {
+          "text": "establish",
+          "xmin": 1364,
+          "ymin": 1919,
+          "xmax": 1505,
+          "ymax": 1948
+        },
+        {
+          "text": "connection",
+          "xmin": 1520,
+          "ymin": 1920,
+          "xmax": 1699,
+          "ymax": 1948
+        },
+        {
+          "text": "with",
+          "xmin": 1715,
+          "ymin": 1919,
+          "xmax": 1784,
+          "ymax": 1946
+        },
+        {
+          "text": "Android",
+          "xmin": 1798,
+          "ymin": 1919,
+          "xmax": 1934,
+          "ymax": 1948
+        },
+        {
+          "text": "platforms",
+          "xmin": 1946,
+          "ymin": 1919,
+          "xmax": 2105,
+          "ymax": 1954
+        },
+        {
+          "text": "Collaborated",
+          "xmin": 233,
+          "ymin": 1973,
+          "xmax": 446,
+          "ymax": 2003
+        },
+        {
+          "text": "with",
+          "xmin": 460,
+          "ymin": 1973,
+          "xmax": 528,
+          "ymax": 2000
+        },
+        {
+          "text": "mechanical",
+          "xmin": 543,
+          "ymin": 1973,
+          "xmax": 729,
+          "ymax": 2002
+        },
+        {
+          "text": "team",
+          "xmin": 744,
+          "ymin": 1977,
+          "xmax": 820,
+          "ymax": 2000
+        },
+        {
+          "text": "to",
+          "xmin": 835,
+          "ymin": 1978,
+          "xmax": 863,
+          "ymax": 2000
+        },
+        {
+          "text": "determine",
+          "xmin": 877,
+          "ymin": 1973,
+          "xmax": 1041,
+          "ymax": 2000
+        },
+        {
+          "text": "device",
+          "xmin": 1054,
+          "ymin": 1973,
+          "xmax": 1160,
+          "ymax": 2000
+        },
+        {
+          "text": "size",
+          "xmin": 1174,
+          "ymin": 1974,
+          "xmax": 1235,
+          "ymax": 2000
+        },
+        {
+          "text": "and",
+          "xmin": 1249,
+          "ymin": 1974,
+          "xmax": 1307,
+          "ymax": 2002
+        },
+        {
+          "text": "shape",
+          "xmin": 1320,
+          "ymin": 1974,
+          "xmax": 1413,
+          "ymax": 2008
+        },
+        {
+          "text": "C",
+          "xmin": 1410,
+          "ymin": 1985,
+          "xmax": 1416,
+          "ymax": 2001
+        },
+        {
+          "text": "guiding",
+          "xmin": 1436,
+          "ymin": 1974,
+          "xmax": 1560,
+          "ymax": 2008
+        },
+        {
+          "text": "selection",
+          "xmin": 1573,
+          "ymin": 1974,
+          "xmax": 1717,
+          "ymax": 2002
+        },
+        {
+          "text": "of",
+          "xmin": 1731,
+          "ymin": 1973,
+          "xmax": 1766,
+          "ymax": 2000
+        },
+        {
+          "text": "battery,",
+          "xmin": 1775,
+          "ymin": 1974,
+          "xmax": 1897,
+          "ymax": 2009
+        },
+        {
+          "text": "MCU",
+          "xmin": 1910,
+          "ymin": 1973,
+          "xmax": 2000,
+          "ymax": 2003
+        },
+        {
+          "text": "and",
+          "xmin": 2016,
+          "ymin": 1974,
+          "xmax": 2073,
+          "ymax": 2000
+        },
+        {
+          "text": "MEMS",
+          "xmin": 2084,
+          "ymin": 1973,
+          "xmax": 2205,
+          "ymax": 2003
+        },
+        {
+          "text": "sensors",
+          "xmin": 2220,
+          "ymin": 1982,
+          "xmax": 2338,
+          "ymax": 2000
+        },
+        {
+          "text": "Technical",
+          "xmin": 1096,
+          "ymin": 2068,
+          "xmax": 1281,
+          "ymax": 2098
+        },
+        {
+          "text": "Projects",
+          "xmin": 1294,
+          "ymin": 2067,
+          "xmax": 1452,
+          "ymax": 2105
+        },
+        {
+          "text": "PLD",
+          "xmin": 100,
+          "ymin": 2148,
+          "xmax": 182,
+          "ymax": 2177
+        },
+        {
+          "text": "Circuit",
+          "xmin": 195,
+          "ymin": 2147,
+          "xmax": 319,
+          "ymax": 2176
+        },
+        {
+          "text": "|",
+          "xmin": 333,
+          "ymin": 2145,
+          "xmax": 336,
+          "ymax": 2169
+        },
+        {
+          "text": "01/2024",
+          "xmin": 336,
+          "ymin": 2146,
+          "xmax": 484,
+          "ymax": 2178
+        },
+        {
+          "text": "Designed",
+          "xmin": 233,
+          "ymin": 2202,
+          "xmax": 389,
+          "ymax": 2238
+        },
+        {
+          "text": "a",
+          "xmin": 402,
+          "ymin": 2211,
+          "xmax": 415,
+          "ymax": 2227
+        },
+        {
+          "text": "4-bit",
+          "xmin": 429,
+          "ymin": 2202,
+          "xmax": 508,
+          "ymax": 2230
+        },
+        {
+          "text": "prime",
+          "xmin": 518,
+          "ymin": 2202,
+          "xmax": 613,
+          "ymax": 2238
+        },
+        {
+          "text": "number",
+          "xmin": 626,
+          "ymin": 2203,
+          "xmax": 753,
+          "ymax": 2231
+        },
+        {
+          "text": "detector",
+          "xmin": 764,
+          "ymin": 2202,
+          "xmax": 897,
+          "ymax": 2230
+        },
+        {
+          "text": "digital",
+          "xmin": 909,
+          "ymin": 2202,
+          "xmax": 1014,
+          "ymax": 2239
+        },
+        {
+          "text": "circuit",
+          "xmin": 1026,
+          "ymin": 2202,
+          "xmax": 1131,
+          "ymax": 2230
+        },
+        {
+          "text": "and",
+          "xmin": 1143,
+          "ymin": 2202,
+          "xmax": 1199,
+          "ymax": 2231
+        },
+        {
+          "text": "programmed",
+          "xmin": 1212,
+          "ymin": 2202,
+          "xmax": 1423,
+          "ymax": 2239
+        },
+        {
+          "text": "a",
+          "xmin": 1437,
+          "ymin": 2211,
+          "xmax": 1449,
+          "ymax": 2227
+        },
+        {
+          "text": "PLD",
+          "xmin": 1465,
+          "ymin": 2202,
+          "xmax": 1540,
+          "ymax": 2231
+        },
+        {
+          "text": "(",
+          "xmin": 1555,
+          "ymin": 2205,
+          "xmax": 1561,
+          "ymax": 2221
+        },
+        {
+          "text": "ATMEL",
+          "xmin": 1566,
+          "ymin": 2202,
+          "xmax": 1704,
+          "ymax": 2230
+        },
+        {
+          "text": "ATF16V8B",
+          "xmin": 1718,
+          "ymin": 2202,
+          "xmax": 1905,
+          "ymax": 2230
+        },
+        {
+          "text": ")",
+          "xmin": 1912,
+          "ymin": 2203,
+          "xmax": 1920,
+          "ymax": 2230
+        },
+        {
+          "text": "using",
+          "xmin": 1934,
+          "ymin": 2202,
+          "xmax": 2023,
+          "ymax": 2238
+        },
+        {
+          "text": "WinCupl",
+          "xmin": 2035,
+          "ymin": 2202,
+          "xmax": 2187,
+          "ymax": 2239
+        },
+        {
+          "text": "Utilized",
+          "xmin": 233,
+          "ymin": 2256,
+          "xmax": 363,
+          "ymax": 2284
+        },
+        {
+          "text": "WinSim",
+          "xmin": 378,
+          "ymin": 2256,
+          "xmax": 510,
+          "ymax": 2284
+        },
+        {
+          "text": "to",
+          "xmin": 528,
+          "ymin": 2261,
+          "xmax": 557,
+          "ymax": 2284
+        },
+        {
+          "text": "simulate",
+          "xmin": 571,
+          "ymin": 2257,
+          "xmax": 709,
+          "ymax": 2284
+        },
+        {
+          "text": "a",
+          "xmin": 722,
+          "ymin": 2265,
+          "xmax": 735,
+          "ymax": 2281
+        },
+        {
+          "text": "digital",
+          "xmin": 750,
+          "ymin": 2256,
+          "xmax": 853,
+          "ymax": 2292
+        },
+        {
+          "text": "circuit.",
+          "xmin": 866,
+          "ymin": 2257,
+          "xmax": 979,
+          "ymax": 2284
+        },
+        {
+          "text": "verifying",
+          "xmin": 994,
+          "ymin": 2256,
+          "xmax": 1144,
+          "ymax": 2292
+        },
+        {
+          "text": "logical",
+          "xmin": 1156,
+          "ymin": 2256,
+          "xmax": 1268,
+          "ymax": 2292
+        },
+        {
+          "text": "functions",
+          "xmin": 1280,
+          "ymin": 2256,
+          "xmax": 1431,
+          "ymax": 2284
+        },
+        {
+          "text": "through",
+          "xmin": 1446,
+          "ymin": 2256,
+          "xmax": 1572,
+          "ymax": 2292
+        },
+        {
+          "text": "waveform",
+          "xmin": 1586,
+          "ymin": 2256,
+          "xmax": 1748,
+          "ymax": 2284
+        },
+        {
+          "text": "analysis",
+          "xmin": 1765,
+          "ymin": 2256,
+          "xmax": 1896,
+          "ymax": 2291
+        },
+        {
+          "text": "of",
+          "xmin": 1908,
+          "ymin": 2256,
+          "xmax": 1944,
+          "ymax": 2284
+        },
+        {
+          "text": "5",
+          "xmin": 1956,
+          "ymin": 2256,
+          "xmax": 1967,
+          "ymax": 2281
+        },
+        {
+          "text": "signals",
+          "xmin": 1986,
+          "ymin": 2256,
+          "xmax": 2098,
+          "ymax": 2292
+        },
+        {
+          "text": "Created",
+          "xmin": 233,
+          "ymin": 2310,
+          "xmax": 361,
+          "ymax": 2338
+        },
+        {
+          "text": "PCB",
+          "xmin": 373,
+          "ymin": 2310,
+          "xmax": 447,
+          "ymax": 2339
+        },
+        {
+          "text": "layout",
+          "xmin": 462,
+          "ymin": 2311,
+          "xmax": 566,
+          "ymax": 2343
+        },
+        {
+          "text": "and",
+          "xmin": 578,
+          "ymin": 2310,
+          "xmax": 634,
+          "ymax": 2338
+        },
+        {
+          "text": "schematic",
+          "xmin": 648,
+          "ymin": 2310,
+          "xmax": 812,
+          "ymax": 2338
+        },
+        {
+          "text": "in",
+          "xmin": 824,
+          "ymin": 2310,
+          "xmax": 853,
+          "ymax": 2338
+        },
+        {
+          "text": "Altium",
+          "xmin": 868,
+          "ymin": 2310,
+          "xmax": 979,
+          "ymax": 2338
+        },
+        {
+          "text": "incorporating",
+          "xmin": 1006,
+          "ymin": 2311,
+          "xmax": 1227,
+          "ymax": 2346
+        },
+        {
+          "text": "PLD",
+          "xmin": 1241,
+          "ymin": 2310,
+          "xmax": 1317,
+          "ymax": 2338
+        },
+        {
+          "text": "switches",
+          "xmin": 1341,
+          "ymin": 2310,
+          "xmax": 1481,
+          "ymax": 2338
+        },
+        {
+          "text": "LEDS",
+          "xmin": 1503,
+          "ymin": 2310,
+          "xmax": 1599,
+          "ymax": 2338
+        },
+        {
+          "text": "pull-down",
+          "xmin": 1621,
+          "ymin": 2310,
+          "xmax": 1792,
+          "ymax": 2346
+        },
+        {
+          "text": "resistors",
+          "xmin": 1803,
+          "ymin": 2310,
+          "xmax": 1941,
+          "ymax": 2338
+        },
+        {
+          "text": "and",
+          "xmin": 1954,
+          "ymin": 2311,
+          "xmax": 2011,
+          "ymax": 2338
+        },
+        {
+          "text": "MOSFETS",
+          "xmin": 2024,
+          "ymin": 2310,
+          "xmax": 2199,
+          "ymax": 2338
+        },
+        {
+          "text": "Magnetic",
+          "xmin": 100,
+          "ymin": 2363,
+          "xmax": 265,
+          "ymax": 2402
+        },
+        {
+          "text": "Field",
+          "xmin": 277,
+          "ymin": 2364,
+          "xmax": 363,
+          "ymax": 2392
+        },
+        {
+          "text": "Controlled",
+          "xmin": 378,
+          "ymin": 2364,
+          "xmax": 564,
+          "ymax": 2392
+        },
+        {
+          "text": "Car",
+          "xmin": 580,
+          "ymin": 2363,
+          "xmax": 647,
+          "ymax": 2392
+        },
+        {
+          "text": "|",
+          "xmin": 661,
+          "ymin": 2361,
+          "xmax": 664,
+          "ymax": 2388
+        },
+        {
+          "text": "02/2023",
+          "xmin": 679,
+          "ymin": 2363,
+          "xmax": 812,
+          "ymax": 2392
+        },
+        {
+          "text": "to",
+          "xmin": 827,
+          "ymin": 2367,
+          "xmax": 858,
+          "ymax": 2392
+        },
+        {
+          "text": "03/2023",
+          "xmin": 871,
+          "ymin": 2363,
+          "xmax": 1005,
+          "ymax": 2392
+        },
+        {
+          "text": "Programmed",
+          "xmin": 233,
+          "ymin": 2418,
+          "xmax": 446,
+          "ymax": 2454
+        },
+        {
+          "text": "a",
+          "xmin": 460,
+          "ymin": 2427,
+          "xmax": 472,
+          "ymax": 2444
+        },
+        {
+          "text": "PIC32",
+          "xmin": 488,
+          "ymin": 2418,
+          "xmax": 590,
+          "ymax": 2446
+        },
+        {
+          "text": "microcontroller",
+          "xmin": 605,
+          "ymin": 2419,
+          "xmax": 863,
+          "ymax": 2446
+        },
+        {
+          "text": "in",
+          "xmin": 875,
+          "ymin": 2418,
+          "xmax": 902,
+          "ymax": 2446
+        },
+        {
+          "text": "C",
+          "xmin": 917,
+          "ymin": 2418,
+          "xmax": 940,
+          "ymax": 2445
+        },
+        {
+          "text": "to",
+          "xmin": 956,
+          "ymin": 2422,
+          "xmax": 985,
+          "ymax": 2446
+        },
+        {
+          "text": "serve",
+          "xmin": 999,
+          "ymin": 2427,
+          "xmax": 1083,
+          "ymax": 2446
+        },
+        {
+          "text": "as",
+          "xmin": 1097,
+          "ymin": 2427,
+          "xmax": 1126,
+          "ymax": 2446
+        },
+        {
+          "text": "a",
+          "xmin": 1143,
+          "ymin": 2427,
+          "xmax": 1155,
+          "ymax": 2444
+        },
+        {
+          "text": "transmitter",
+          "xmin": 1171,
+          "ymin": 2419,
+          "xmax": 1348,
+          "ymax": 2446
+        },
+        {
+          "text": "of",
+          "xmin": 1361,
+          "ymin": 2418,
+          "xmax": 1395,
+          "ymax": 2446
+        },
+        {
+          "text": "PWM",
+          "xmin": 1406,
+          "ymin": 2418,
+          "xmax": 1502,
+          "ymax": 2447
+        },
+        {
+          "text": "signals",
+          "xmin": 1517,
+          "ymin": 2418,
+          "xmax": 1629,
+          "ymax": 2454
+        },
+        {
+          "text": "and",
+          "xmin": 1643,
+          "ymin": 2419,
+          "xmax": 1699,
+          "ymax": 2446
+        },
+        {
+          "text": "dictating",
+          "xmin": 1712,
+          "ymin": 2418,
+          "xmax": 1856,
+          "ymax": 2454
+        },
+        {
+          "text": "the",
+          "xmin": 1869,
+          "ymin": 2418,
+          "xmax": 1918,
+          "ymax": 2446
+        },
+        {
+          "text": "car's",
+          "xmin": 1930,
+          "ymin": 2419,
+          "xmax": 2002,
+          "ymax": 2446
+        },
+        {
+          "text": "mode",
+          "xmin": 2015,
+          "ymin": 2418,
+          "xmax": 2106,
+          "ymax": 2446
+        },
+        {
+          "text": "of",
+          "xmin": 2118,
+          "ymin": 2418,
+          "xmax": 2153,
+          "ymax": 2446
+        },
+        {
+          "text": "operation",
+          "xmin": 2163,
+          "ymin": 2419,
+          "xmax": 2318,
+          "ymax": 2452
+        },
+        {
+          "text": "-",
+          "xmin": 185,
+          "ymin": 2481,
+          "xmax": 192,
+          "ymax": 2486
+        },
+        {
+          "text": "Engineered",
+          "xmin": 232,
+          "ymin": 2473,
+          "xmax": 420,
+          "ymax": 2510
+        },
+        {
+          "text": "a",
+          "xmin": 435,
+          "ymin": 2482,
+          "xmax": 446,
+          "ymax": 2501
+        },
+        {
+          "text": "receiver",
+          "xmin": 461,
+          "ymin": 2473,
+          "xmax": 595,
+          "ymax": 2501
+        },
+        {
+          "text": "circuit",
+          "xmin": 607,
+          "ymin": 2473,
+          "xmax": 711,
+          "ymax": 2501
+        },
+        {
+          "text": "using",
+          "xmin": 723,
+          "ymin": 2473,
+          "xmax": 812,
+          "ymax": 2508
+        },
+        {
+          "text": "the",
+          "xmin": 825,
+          "ymin": 2473,
+          "xmax": 871,
+          "ymax": 2501
+        },
+        {
+          "text": "STM32",
+          "xmin": 886,
+          "ymin": 2473,
+          "xmax": 1010,
+          "ymax": 2503
+        },
+        {
+          "text": "microcontroller",
+          "xmin": 1023,
+          "ymin": 2473,
+          "xmax": 1281,
+          "ymax": 2502
+        },
+        {
+          "text": "programmed",
+          "xmin": 1291,
+          "ymin": 2473,
+          "xmax": 1501,
+          "ymax": 2510
+        },
+        {
+          "text": "in",
+          "xmin": 1516,
+          "ymin": 2473,
+          "xmax": 1544,
+          "ymax": 2501
+        },
+        {
+          "text": "C",
+          "xmin": 1547,
+          "ymin": 2473,
+          "xmax": 1590,
+          "ymax": 2505
+        },
+        {
+          "text": "interpreting",
+          "xmin": 1608,
+          "ymin": 2473,
+          "xmax": 1799,
+          "ymax": 2509
+        },
+        {
+          "text": "signals",
+          "xmin": 1813,
+          "ymin": 2473,
+          "xmax": 1925,
+          "ymax": 2510
+        },
+        {
+          "text": "from",
+          "xmin": 1938,
+          "ymin": 2473,
+          "xmax": 2013,
+          "ymax": 2501
+        },
+        {
+          "text": "the",
+          "xmin": 2030,
+          "ymin": 2473,
+          "xmax": 2078,
+          "ymax": 2501
+        },
+        {
+          "text": "transmitter",
+          "xmin": 2091,
+          "ymin": 2473,
+          "xmax": 2270,
+          "ymax": 2501
+        },
+        {
+          "text": "and",
+          "xmin": 2283,
+          "ymin": 2473,
+          "xmax": 2338,
+          "ymax": 2501
+        },
+        {
+          "text": "directing",
+          "xmin": 233,
+          "ymin": 2527,
+          "xmax": 379,
+          "ymax": 2563
+        },
+        {
+          "text": "the",
+          "xmin": 393,
+          "ymin": 2527,
+          "xmax": 441,
+          "ymax": 2555
+        },
+        {
+          "text": "car's",
+          "xmin": 454,
+          "ymin": 2528,
+          "xmax": 525,
+          "ymax": 2555
+        },
+        {
+          "text": "movements",
+          "xmin": 538,
+          "ymin": 2531,
+          "xmax": 727,
+          "ymax": 2557
+        },
+        {
+          "text": "Optimized",
+          "xmin": 234,
+          "ymin": 2581,
+          "xmax": 407,
+          "ymax": 2619
+        },
+        {
+          "text": "transmitter",
+          "xmin": 420,
+          "ymin": 2582,
+          "xmax": 598,
+          "ymax": 2609
+        },
+        {
+          "text": "circuit",
+          "xmin": 610,
+          "ymin": 2582,
+          "xmax": 716,
+          "ymax": 2609
+        },
+        {
+          "text": "signals",
+          "xmin": 728,
+          "ymin": 2581,
+          "xmax": 840,
+          "ymax": 2618
+        },
+        {
+          "text": "for",
+          "xmin": 854,
+          "ymin": 2581,
+          "xmax": 901,
+          "ymax": 2609
+        },
+        {
+          "text": "improved",
+          "xmin": 912,
+          "ymin": 2581,
+          "xmax": 1070,
+          "ymax": 2617
+        },
+        {
+          "text": "readability",
+          "xmin": 1081,
+          "ymin": 2581,
+          "xmax": 1258,
+          "ymax": 2614
+        },
+        {
+          "text": "using",
+          "xmin": 1270,
+          "ymin": 2582,
+          "xmax": 1358,
+          "ymax": 2617
+        },
+        {
+          "text": "oscilloscopes,",
+          "xmin": 1371,
+          "ymin": 2581,
+          "xmax": 1601,
+          "ymax": 2617
+        },
+        {
+          "text": "multimeters",
+          "xmin": 1614,
+          "ymin": 2581,
+          "xmax": 1810,
+          "ymax": 2609
+        },
+        {
+          "text": "to",
+          "xmin": 1824,
+          "ymin": 2585,
+          "xmax": 1855,
+          "ymax": 2610
+        },
+        {
+          "text": "fine-",
+          "xmin": 1867,
+          "ymin": 2581,
+          "xmax": 1941,
+          "ymax": 2609
+        },
+        {
+          "text": "-tune",
+          "xmin": 1934,
+          "ymin": 2585,
+          "xmax": 2013,
+          "ymax": 2610
+        },
+        {
+          "text": "signal",
+          "xmin": 2028,
+          "ymin": 2581,
+          "xmax": 2125,
+          "ymax": 2618
+        },
+        {
+          "text": "strength",
+          "xmin": 2138,
+          "ymin": 2581,
+          "xmax": 2266,
+          "ymax": 2617
+        },
+        {
+          "text": "Digital",
+          "xmin": 100,
+          "ymin": 2634,
+          "xmax": 220,
+          "ymax": 2670
+        },
+        {
+          "text": "Combination",
+          "xmin": 232,
+          "ymin": 2634,
+          "xmax": 461,
+          "ymax": 2663
+        },
+        {
+          "text": "Lock",
+          "xmin": 476,
+          "ymin": 2635,
+          "xmax": 562,
+          "ymax": 2663
+        },
+        {
+          "text": "|",
+          "xmin": 588,
+          "ymin": 2634,
+          "xmax": 589,
+          "ymax": 2657
+        },
+        {
+          "text": "08/2022",
+          "xmin": 606,
+          "ymin": 2634,
+          "xmax": 740,
+          "ymax": 2663
+        },
+        {
+          "text": "Designed",
+          "xmin": 233,
+          "ymin": 2689,
+          "xmax": 389,
+          "ymax": 2725
+        },
+        {
+          "text": "a",
+          "xmin": 403,
+          "ymin": 2698,
+          "xmax": 415,
+          "ymax": 2715
+        },
+        {
+          "text": "digital",
+          "xmin": 430,
+          "ymin": 2689,
+          "xmax": 534,
+          "ymax": 2727
+        },
+        {
+          "text": "combination",
+          "xmin": 547,
+          "ymin": 2689,
+          "xmax": 750,
+          "ymax": 2717
+        },
+        {
+          "text": "lock",
+          "xmin": 765,
+          "ymin": 2689,
+          "xmax": 835,
+          "ymax": 2717
+        },
+        {
+          "text": "on",
+          "xmin": 848,
+          "ymin": 2698,
+          "xmax": 884,
+          "ymax": 2717
+        },
+        {
+          "text": "a",
+          "xmin": 900,
+          "ymin": 2698,
+          "xmax": 912,
+          "ymax": 2715
+        },
+        {
+          "text": "DE1-SoC",
+          "xmin": 928,
+          "ymin": 2689,
+          "xmax": 1088,
+          "ymax": 2717
+        },
+        {
+          "text": "board",
+          "xmin": 1100,
+          "ymin": 2689,
+          "xmax": 1193,
+          "ymax": 2717
+        },
+        {
+          "text": "by",
+          "xmin": 1216,
+          "ymin": 2690,
+          "xmax": 1256,
+          "ymax": 2727
+        },
+        {
+          "text": "integrating",
+          "xmin": 1269,
+          "ymin": 2689,
+          "xmax": 1446,
+          "ymax": 2725
+        },
+        {
+          "text": "a",
+          "xmin": 1460,
+          "ymin": 2698,
+          "xmax": 1472,
+          "ymax": 2715
+        },
+        {
+          "text": "Finite",
+          "xmin": 1487,
+          "ymin": 2689,
+          "xmax": 1583,
+          "ymax": 2717
+        },
+        {
+          "text": "State",
+          "xmin": 1597,
+          "ymin": 2689,
+          "xmax": 1678,
+          "ymax": 2717
+        },
+        {
+          "text": "Machine",
+          "xmin": 1688,
+          "ymin": 2689,
+          "xmax": 1833,
+          "ymax": 2717
+        },
+        {
+          "text": "(FSM",
+          "xmin": 1847,
+          "ymin": 2689,
+          "xmax": 1939,
+          "ymax": 2717
+        },
+        {
+          "text": "|",
+          "xmin": 1947,
+          "ymin": 2694,
+          "xmax": 1950,
+          "ymax": 2712
+        },
+        {
+          "text": "and",
+          "xmin": 1968,
+          "ymin": 2689,
+          "xmax": 2024,
+          "ymax": 2717
+        },
+        {
+          "text": "logic",
+          "xmin": 2038,
+          "ymin": 2689,
+          "xmax": 2116,
+          "ymax": 2725
+        },
+        {
+          "text": "state",
+          "xmin": 2132,
+          "ymin": 2693,
+          "xmax": 2204,
+          "ymax": 2717
+        },
+        {
+          "text": "diagram",
+          "xmin": 2218,
+          "ymin": 2689,
+          "xmax": 2349,
+          "ymax": 2727
+        },
+        {
+          "text": "using",
+          "xmin": 233,
+          "ymin": 2743,
+          "xmax": 322,
+          "ymax": 2780
+        },
+        {
+          "text": "synthesizable",
+          "xmin": 335,
+          "ymin": 2743,
+          "xmax": 557,
+          "ymax": 2777
+        },
+        {
+          "text": "System",
+          "xmin": 570,
+          "ymin": 2743,
+          "xmax": 696,
+          "ymax": 2779
+        },
+        {
+          "text": "Verilog",
+          "xmin": 687,
+          "ymin": 2743,
+          "xmax": 812,
+          "ymax": 2780
+        },
+        {
+          "text": "Enabled",
+          "xmin": 232,
+          "ymin": 2798,
+          "xmax": 366,
+          "ymax": 2825
+        },
+        {
+          "text": "the",
+          "xmin": 381,
+          "ymin": 2798,
+          "xmax": 430,
+          "ymax": 2825
+        },
+        {
+          "text": "input",
+          "xmin": 441,
+          "ymin": 2799,
+          "xmax": 526,
+          "ymax": 2833
+        },
+        {
+          "text": "of",
+          "xmin": 537,
+          "ymin": 2798,
+          "xmax": 572,
+          "ymax": 2825
+        },
+        {
+          "text": "six",
+          "xmin": 584,
+          "ymin": 2798,
+          "xmax": 626,
+          "ymax": 2825
+        },
+        {
+          "text": "digits",
+          "xmin": 642,
+          "ymin": 2798,
+          "xmax": 732,
+          "ymax": 2835
+        },
+        {
+          "text": "through",
+          "xmin": 746,
+          "ymin": 2799,
+          "xmax": 871,
+          "ymax": 2833
+        },
+        {
+          "text": "switches",
+          "xmin": 886,
+          "ymin": 2798,
+          "xmax": 1026,
+          "ymax": 2827
+        },
+        {
+          "text": "|",
+          "xmin": 1026,
+          "ymin": 2822,
+          "xmax": 1032,
+          "ymax": 2824
+        },
+        {
+          "text": "displaying",
+          "xmin": 1049,
+          "ymin": 2799,
+          "xmax": 1219,
+          "ymax": 2833
+        },
+        {
+          "text": "real-time",
+          "xmin": 1232,
+          "ymin": 2799,
+          "xmax": 1380,
+          "ymax": 2827
+        },
+        {
+          "text": "digit",
+          "xmin": 1393,
+          "ymin": 2798,
+          "xmax": 1469,
+          "ymax": 2833
+        },
+        {
+          "text": "feedback",
+          "xmin": 1481,
+          "ymin": 2798,
+          "xmax": 1627,
+          "ymax": 2825
+        },
+        {
+          "text": "on7",
+          "xmin": 1641,
+          "ymin": 2798,
+          "xmax": 1700,
+          "ymax": 2827
+        },
+        {
+          "text": "segment",
+          "xmin": 1715,
+          "ymin": 2803,
+          "xmax": 1852,
+          "ymax": 2834
+        },
+        {
+          "text": "HEX",
+          "xmin": 1864,
+          "ymin": 2798,
+          "xmax": 1944,
+          "ymax": 2825
+        },
+        {
+          "text": "display",
+          "xmin": 1959,
+          "ymin": 2798,
+          "xmax": 2075,
+          "ymax": 2833
+        },
+        {
+          "text": "Validated",
+          "xmin": 234,
+          "ymin": 2852,
+          "xmax": 387,
+          "ymax": 2880
+        },
+        {
+          "text": "the",
+          "xmin": 402,
+          "ymin": 2852,
+          "xmax": 448,
+          "ymax": 2880
+        },
+        {
+          "text": "design",
+          "xmin": 462,
+          "ymin": 2852,
+          "xmax": 567,
+          "ymax": 2887
+        },
+        {
+          "text": "through",
+          "xmin": 582,
+          "ymin": 2852,
+          "xmax": 709,
+          "ymax": 2887
+        },
+        {
+          "text": "RTL-level",
+          "xmin": 721,
+          "ymin": 2852,
+          "xmax": 892,
+          "ymax": 2880
+        },
+        {
+          "text": "simulation",
+          "xmin": 904,
+          "ymin": 2852,
+          "xmax": 1075,
+          "ymax": 2880
+        },
+        {
+          "text": "in",
+          "xmin": 1089,
+          "ymin": 2853,
+          "xmax": 1119,
+          "ymax": 2880
+        },
+        {
+          "text": "Modelsim",
+          "xmin": 1132,
+          "ymin": 2852,
+          "xmax": 1294,
+          "ymax": 2880
+        },
+        {
+          "text": "1",
+          "xmin": 1296,
+          "ymin": 2863,
+          "xmax": 1306,
+          "ymax": 2881
+        },
+        {
+          "text": "using",
+          "xmin": 1320,
+          "ymin": 2853,
+          "xmax": 1410,
+          "ymax": 2888
+        },
+        {
+          "text": "a",
+          "xmin": 1423,
+          "ymin": 2861,
+          "xmax": 1436,
+          "ymax": 2877
+        },
+        {
+          "text": "testbench",
+          "xmin": 1452,
+          "ymin": 2852,
+          "xmax": 1603,
+          "ymax": 2880
+        },
+        {
+          "text": "with",
+          "xmin": 1620,
+          "ymin": 2853,
+          "xmax": 1688,
+          "ymax": 2880
+        },
+        {
+          "text": "15",
+          "xmin": 1708,
+          "ymin": 2852,
+          "xmax": 1740,
+          "ymax": 2880
+        },
+        {
+          "text": "to",
+          "xmin": 1756,
+          "ymin": 2856,
+          "xmax": 1784,
+          "ymax": 2880
+        },
+        {
+          "text": "20",
+          "xmin": 1799,
+          "ymin": 2852,
+          "xmax": 1838,
+          "ymax": 2881
+        },
+        {
+          "text": "testcases",
+          "xmin": 1851,
+          "ymin": 2857,
+          "xmax": 1993,
+          "ymax": 2880
+        },
+        {
+          "text": "Involvement",
+          "xmin": 1154,
+          "ymin": 2947,
+          "xmax": 1397,
+          "ymax": 2980
+        },
+        {
+          "text": "UBC",
+          "xmin": 100,
+          "ymin": 3026,
+          "xmax": 185,
+          "ymax": 3057
+        },
+        {
+          "text": "Electrical",
+          "xmin": 198,
+          "ymin": 3027,
+          "xmax": 366,
+          "ymax": 3055
+        },
+        {
+          "text": "and",
+          "xmin": 379,
+          "ymin": 3027,
+          "xmax": 443,
+          "ymax": 3056
+        },
+        {
+          "text": "Computer",
+          "xmin": 458,
+          "ymin": 3027,
+          "xmax": 639,
+          "ymax": 3064
+        },
+        {
+          "text": "Engineering",
+          "xmin": 650,
+          "ymin": 3026,
+          "xmax": 864,
+          "ymax": 3065
+        },
+        {
+          "text": "Student",
+          "xmin": 877,
+          "ymin": 3026,
+          "xmax": 1015,
+          "ymax": 3057
+        },
+        {
+          "text": "Society",
+          "xmin": 1026,
+          "ymin": 3026,
+          "xmax": 1153,
+          "ymax": 3060
+        },
+        {
+          "text": "|",
+          "xmin": 1176,
+          "ymin": 3026,
+          "xmax": 1179,
+          "ymax": 3046
+        },
+        {
+          "text": "Vice",
+          "xmin": 1195,
+          "ymin": 3026,
+          "xmax": 1271,
+          "ymax": 3055
+        },
+        {
+          "text": "President",
+          "xmin": 1284,
+          "ymin": 3026,
+          "xmax": 1450,
+          "ymax": 3055
+        },
+        {
+          "text": "of",
+          "xmin": 1462,
+          "ymin": 3027,
+          "xmax": 1498,
+          "ymax": 3057
+        },
+        {
+          "text": "Administration",
+          "xmin": 1506,
+          "ymin": 3027,
+          "xmax": 1776,
+          "ymax": 3056
+        },
+        {
+          "text": "|",
+          "xmin": 1792,
+          "ymin": 3025,
+          "xmax": 1796,
+          "ymax": 3054
+        },
+        {
+          "text": "03/2023",
+          "xmin": 1809,
+          "ymin": 3026,
+          "xmax": 1944,
+          "ymax": 3056
+        },
+        {
+          "text": "to",
+          "xmin": 1957,
+          "ymin": 3030,
+          "xmax": 1988,
+          "ymax": 3055
+        },
+        {
+          "text": "Current",
+          "xmin": 2002,
+          "ymin": 3027,
+          "xmax": 2145,
+          "ymax": 3055
+        },
+        {
+          "text": "Record",
+          "xmin": 234,
+          "ymin": 3081,
+          "xmax": 350,
+          "ymax": 3109
+        },
+        {
+          "text": "minutes",
+          "xmin": 364,
+          "ymin": 3081,
+          "xmax": 494,
+          "ymax": 3109
+        },
+        {
+          "text": "and",
+          "xmin": 507,
+          "ymin": 3081,
+          "xmax": 564,
+          "ymax": 3109
+        },
+        {
+          "text": "manage",
+          "xmin": 577,
+          "ymin": 3090,
+          "xmax": 704,
+          "ymax": 3117
+        },
+        {
+          "text": "documentation",
+          "xmin": 718,
+          "ymin": 3081,
+          "xmax": 961,
+          "ymax": 3109
+        },
+        {
+          "text": "for",
+          "xmin": 976,
+          "ymin": 3081,
+          "xmax": 1022,
+          "ymax": 3109
+        },
+        {
+          "text": "council",
+          "xmin": 1034,
+          "ymin": 3081,
+          "xmax": 1155,
+          "ymax": 3109
+        },
+        {
+          "text": "meetings.",
+          "xmin": 1167,
+          "ymin": 3082,
+          "xmax": 1321,
+          "ymax": 3118
+        },
+        {
+          "text": "|",
+          "xmin": 185,
+          "ymin": 3143,
+          "xmax": 194,
+          "ymax": 3149
+        },
+        {
+          "text": "Develop",
+          "xmin": 233,
+          "ymin": 3135,
+          "xmax": 372,
+          "ymax": 3171
+        },
+        {
+          "text": "budgets",
+          "xmin": 384,
+          "ymin": 3136,
+          "xmax": 512,
+          "ymax": 3173
+        },
+        {
+          "text": "for",
+          "xmin": 526,
+          "ymin": 3135,
+          "xmax": 572,
+          "ymax": 3163
+        },
+        {
+          "text": "student",
+          "xmin": 585,
+          "ymin": 3136,
+          "xmax": 704,
+          "ymax": 3163
+        },
+        {
+          "text": "lounge",
+          "xmin": 715,
+          "ymin": 3136,
+          "xmax": 826,
+          "ymax": 3173
+        },
+        {
+          "text": "enhancements",
+          "xmin": 838,
+          "ymin": 3135,
+          "xmax": 1072,
+          "ymax": 3163
+        },
+        {
+          "text": "while",
+          "xmin": 1086,
+          "ymin": 3135,
+          "xmax": 1175,
+          "ymax": 3163
+        },
+        {
+          "text": "coordinating",
+          "xmin": 1186,
+          "ymin": 3135,
+          "xmax": 1396,
+          "ymax": 3171
+        },
+        {
+          "text": "supplies",
+          "xmin": 1409,
+          "ymin": 3135,
+          "xmax": 1543,
+          "ymax": 3171
+        },
+        {
+          "text": "maintenance",
+          "xmin": 1566,
+          "ymin": 3136,
+          "xmax": 1774,
+          "ymax": 3163
+        },
+        {
+          "text": "and",
+          "xmin": 1798,
+          "ymin": 3135,
+          "xmax": 1853,
+          "ymax": 3163
+        },
+        {
+          "text": "logistics",
+          "xmin": 1867,
+          "ymin": 3135,
+          "xmax": 2003,
+          "ymax": 3171
+        },
+        {
+          "text": "for",
+          "xmin": 2017,
+          "ymin": 3135,
+          "xmax": 2064,
+          "ymax": 3163
+        },
+        {
+          "text": "the",
+          "xmin": 2077,
+          "ymin": 3135,
+          "xmax": 2124,
+          "ymax": 3163
+        },
+        {
+          "text": "space.",
+          "xmin": 2138,
+          "ymin": 3144,
+          "xmax": 2236,
+          "ymax": 3171
+        },
+        {
+          "text": "Organize",
+          "xmin": 234,
+          "ymin": 3189,
+          "xmax": 385,
+          "ymax": 3227
+        },
+        {
+          "text": "social",
+          "xmin": 397,
+          "ymin": 3189,
+          "xmax": 492,
+          "ymax": 3217
+        },
+        {
+          "text": "gatherings",
+          "xmin": 505,
+          "ymin": 3189,
+          "xmax": 675,
+          "ymax": 3225
+        },
+        {
+          "text": "and",
+          "xmin": 688,
+          "ymin": 3189,
+          "xmax": 745,
+          "ymax": 3217
+        },
+        {
+          "text": "events",
+          "xmin": 758,
+          "ymin": 3194,
+          "xmax": 861,
+          "ymax": 3217
+        },
+        {
+          "text": "for",
+          "xmin": 876,
+          "ymin": 3189,
+          "xmax": 922,
+          "ymax": 3217
+        },
+        {
+          "text": "the",
+          "xmin": 935,
+          "ymin": 3190,
+          "xmax": 982,
+          "ymax": 3217
+        },
+        {
+          "text": "student",
+          "xmin": 996,
+          "ymin": 3190,
+          "xmax": 1115,
+          "ymax": 3217
+        },
+        {
+          "text": "population",
+          "xmin": 1126,
+          "ymin": 3189,
+          "xmax": 1299,
+          "ymax": 3222
+        },
+        {
+          "text": "and",
+          "xmin": 1326,
+          "ymin": 3190,
+          "xmax": 1382,
+          "ymax": 3217
+        },
+        {
+          "text": "assist",
+          "xmin": 1396,
+          "ymin": 3189,
+          "xmax": 1485,
+          "ymax": 3217
+        },
+        {
+          "text": "in",
+          "xmin": 1496,
+          "ymin": 3189,
+          "xmax": 1523,
+          "ymax": 3217
+        },
+        {
+          "text": "running",
+          "xmin": 1537,
+          "ymin": 3189,
+          "xmax": 1665,
+          "ymax": 3225
+        },
+        {
+          "text": "academic",
+          "xmin": 1679,
+          "ymin": 3190,
+          "xmax": 1833,
+          "ymax": 3217
+        },
+        {
+          "text": "events",
+          "xmin": 1846,
+          "ymin": 3194,
+          "xmax": 1949,
+          "ymax": 3217
+        }
+      ],
+      "raw_text": "IDARA NKONO Linkedin.com/in/idarankonc (587) 224-8830 Idaran @student.ubc.ca Technical Skills Programming Languages | C Python System Verilog | ARM Hardware | Microcontroller FPGA Soldering Iron Reflow Oven Assembly ( ARMv7), 8051 Assembly, CUPL Oscilloscope, Multimeter Circuit Analysis/Design Software A Visual Studio ModelSim Quartus , SolidWorks. LTSPice Altium 1. Microsoft Office, WinCupl, WinSim Education Bachelor of Applied Science Electrical Engineering Expected in 2026 University of British Columbia Vancouver BC Experience PCB and Controls Subteam 09/2023 to Current UBC Thunderbikes Design Team Vancouver, BC Designed PCB schematic and electromechanical relay control circuit using Altium : Conducted a thorough analysis of motor controller charger and battery specifications leveraging calculations to select 6 mechanical relays fuses, and resistors Engineered a compact layout and connections for the relay circuit to fit within a specified 295 cm? space alongside PCB in the electric bike Hardware Engineer 05/2023 to 08/2023 UBC Work Learn - Civil Engineering Vancouver, BC | Integrated 4 electrical relays 1 an Arduino board and 2 voltage regulators into control hardware for large-scale machines Modified and soldered circuit boards and wires for optimal performance - Tested soldered components and connections using a Data Acquisition system to ensure reliability | Selected and developed enclosure for control hardware improve protection and connection functionality, and put together mounts for distance hardware SportsMed Electrical Subteam 02/2022 to 08/2023 UBC Biomedical Engineering Student Team Vancouver, BC Programmed Arduino board and STM32 microcontroller to prototype sensors and develop the device's hardware components Configured and optimized the microcontroller Bluetooth module to establish connection with Android platforms Collaborated with mechanical team to determine device size and shape C guiding selection of battery, MCU and MEMS sensors Technical Projects PLD Circuit | 01/2024 Designed a 4-bit prime number detector digital circuit and programmed a PLD ( ATMEL ATF16V8B ) using WinCupl Utilized WinSim to simulate a digital circuit. verifying logical functions through waveform analysis of 5 signals Created PCB layout and schematic in Altium incorporating PLD switches LEDS pull-down resistors and MOSFETS Magnetic Field Controlled Car | 02/2023 to 03/2023 Programmed a PIC32 microcontroller in C to serve as a transmitter of PWM signals and dictating the car's mode of operation - Engineered a receiver circuit using the STM32 microcontroller programmed in C interpreting signals from the transmitter and directing the car's movements Optimized transmitter circuit signals for improved readability using oscilloscopes, multimeters to fine- -tune signal strength Digital Combination Lock | 08/2022 Designed a digital combination lock on a DE1-SoC board by integrating a Finite State Machine (FSM | and logic state diagram using synthesizable System Verilog Enabled the input of six digits through switches | displaying real-time digit feedback on7 segment HEX display Validated the design through RTL-level simulation in Modelsim 1 using a testbench with 15 to 20 testcases Involvement UBC Electrical and Computer Engineering Student Society | Vice President of Administration | 03/2023 to Current Record minutes and manage documentation for council meetings. | Develop budgets for student lounge enhancements while coordinating supplies maintenance and logistics for the space. Organize social gatherings and events for the student population and assist in running academic events "
+    }
+  ]
+}
